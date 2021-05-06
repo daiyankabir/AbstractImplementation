@@ -1,0 +1,6 @@
+C:\Users\Zahid\Desktop\New folder\DemoApplication\AbstractImplementation\AbstractImplementation\bin\Debug\AbstractImplementation.exe.config
+C:\Users\Zahid\Desktop\New folder\DemoApplication\AbstractImplementation\AbstractImplementation\bin\Debug\AbstractImplementation.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\AbstractImplementation\AbstractImplementation\bin\Debug\AbstractImplementation.pdb
+C:\Users\Zahid\Desktop\New folder\DemoApplication\AbstractImplementation\AbstractImplementation\obj\Debug\AbstractImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\Desktop\New folder\DemoApplication\AbstractImplementation\AbstractImplementation\obj\Debug\AbstractImplementation.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\AbstractImplementation\AbstractImplementation\obj\Debug\AbstractImplementation.pdb
